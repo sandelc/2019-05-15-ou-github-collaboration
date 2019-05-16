@@ -1,14 +1,14 @@
 ##Lebanon
-## population
+## population 6.082 million
 
 
-## capital
+## capital: Beirut
 
  
-## official language
+## official language Officially- Arabic, but French and English are spoken fluently
 
 
-## interesting trivia
+## interesting trivia Lebanon is the oldest country name in the world existing for 4000 years
 
 
 
